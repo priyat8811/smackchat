@@ -10,4 +10,9 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="addChannelButton">addChannelButton</string>
+    <string name="login">LOGIN</string>
+    <string name="please_log_in">Please Log In</string>
+    <string name="message">message</string>
+    <string name="send_button">sendButton</string>
 </resources>
